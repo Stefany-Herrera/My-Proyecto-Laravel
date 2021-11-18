@@ -39,15 +39,6 @@
                                     Eliminar
                                     </button>
                                 </form>
-                                <!--
-                                <button
-                                    class="btn btn-danger"
-                                    data-toggle="modal"
-                                    data-target="#deleteModal"
-                                    data-id
-                                >
-                                </button>
-                                -->
                             </td>
                         </tr>
                     @endforeach
